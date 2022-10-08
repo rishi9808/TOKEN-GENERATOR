@@ -17,7 +17,9 @@ For this we used Mysql server which is connected to our Python program.
 Once a patient detail is entered a token in generated in the sql table. 
 This token value is displayed at the client side.
 
+**PRESENTATION LINK**
 
+[presentation link](https://www.canva.com/design/DAFOcmRsQ6A/EwZrMv0AdzjyINqqjCGrvA/edit?utm_content=DAFOcmRsQ6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ![output](https://user-images.githubusercontent.com/81485622/194708073-69d46270-3864-4b48-a7cd-69e2af7cf55c.jpg)
